@@ -1,2 +1,2 @@
 Montage cpu sur la carte mère
-Puis validation de mon commit avec la clé gpg.
+Puis validation de mon commit avec la clé gpg....
